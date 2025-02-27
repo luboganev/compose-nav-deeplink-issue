@@ -1,3 +1,6 @@
+# This has been fixed
+The [Navigation 2.8.0](https://developer.android.com/jetpack/androidx/releases/navigation#2.8.0) release seems to resolve the issue. This repository can only reproduce the described issue with versions prior to that one.
+
 # compose-nav-deeplink-issue
 A demo application that demonstrates an unexpected behavior where one deeplink destination is 
 always triggered despite it not matching the current deeplink.
